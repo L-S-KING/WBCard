@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameSceneSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="1280" height="720" x="0" y="0" fillColor="0xffffff" strokeColor="0xffffff" visible="false"/>
+	<e:Image id="scene_bg" y="-150" width="1500" height="1500" source="BottomScene_bg_jpg" horizontalCenter="0"/>
+	<e:Group id="character_group" width="1280" height="720" x="0" y="0" touchChildren="true" touchEnabled="false" touchThrough="true">
+	</e:Group>
+	<e:Group id="round_group" width="1280" height="200" x="0" y="233" touchChildren="false" touchEnabled="false" touchThrough="true">
+		<e:Rect width="1280" height="150" x="0" y="25" alpha="0.8"/>
+		<e:Label id="round_label" text="玩家回合" anchorOffsetX="0" width="240" anchorOffsetY="0" height="114" verticalAlign="middle" textAlign="center" size="60" verticalCenter="0" horizontalCenter="0"/>
+	</e:Group>
+	<e:Group id="touch_group" width="1280" height="420" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" visible="false">
+	</e:Group>
+</e:Skin>

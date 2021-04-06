@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GameSceneCardUiSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="main_group" width="1280" height="720" x="0" y="0" touchChildren="true" touchEnabled="false" touchThrough="true">
+		<e:Button id="button_round" label="" x="1070" y="518" anchorOffsetX="0" width="150" anchorOffsetY="0" height="84.55" scaleX="1" scaleY="1">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="endTurnButtonGlow_png" source.down="endTurnButton_png" source.disabled="endTurnButtonEnemy_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Image id="pp_img" x="103" y="571.61" scaleX="1" scaleY="1" source="energyRedVFX_png" anchorOffsetX="60" width="120" anchorOffsetY="60" height="120"/>
+		<e:Label id="label_pp" text="3/3" x="103" y="571" width="74" height="30" verticalAlign="middle" textAlign="center" scaleX="1" scaleY="1" strokeColor="0x000000" stroke="2" textColor="0xffffff" anchorOffsetX="37" anchorOffsetY="15"/>
+		<e:Image source="layer62_png" x="53" y="521.61" width="100" height="100"/>
+		<e:Group id="group_holdCard" width="100" height="100" x="68" y="649" anchorOffsetX="50" anchorOffsetY="50" scaleX="1" scaleY="1">
+			<e:Image id="cardGroup_hold" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" rotation="0" scaleX="1" scaleY="1" source="base_png" width="100" height="100"/>
+			<e:Image source="countCircle_png" x="25" y="15" width="110" height="110"/>
+			<e:Label id="label_holdCard" text="20" x="55" y="55" scaleX="1" scaleY="1" textColor="0xffffff" stroke="0" strokeColor="0xe5a66b" size="25" width="50" height="25" verticalAlign="middle" textAlign="center"/>
+		</e:Group>
+		<e:Group id="group_discard" width="100" height="100" x="1202.24" y="649" anchorOffsetX="50" anchorOffsetY="50" scaleX="1" scaleY="1">
+			<e:Image id="cardGroup_discard" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" alpha="1" scaleX="1" scaleY="1" source="base2_png" width="100" height="100"/>
+			<e:Image source="countCircle_png" x="-35" y="15" width="110" height="110"/>
+			<e:Label id="label_discardCard" text="20" x="-5" y="55" width="50" verticalAlign="middle" textAlign="center" scaleX="1" scaleY="1" size="25" textColor="0xffffff"/>
+		</e:Group>
+	</e:Group>
+	<e:Group id="top_group" width="1280" height="720" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" touchChildren="false" touchEnabled="false" touchThrough="true">
+	</e:Group>
+</e:Skin>

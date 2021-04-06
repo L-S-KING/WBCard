@@ -1,0 +1,2590 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,description_json,LevelDefine_json,cx_png,blood_bar_bg_png,blood_bar_front_png,CardDefine_json,arrow_png,defense_img_png,BuffDefine_json,buff_powerUp_png,buff_mutipleDefense_png,buff_week_png,buff_chaos_png,buff_poisoning_png,buff_plusPP_png,buff_maimed_png,buff_resultDefense_png,buff_randomDamage_png,buff_result_png,buff_regrowth_png,buff_roundPowerUp_png,powerUp_png,attack_png,defense_png,debuff_png,MonsterActionDefine_json,38_png,49_png,32_png,1_png,10_png,Unknown_png,division_png,buff_division_png,Slime2_1_png,Slime2_2_png,Slime2_3_png,Slime1_1_png,Slime1_2_png,Slime1_3_png,Slime0_1_png,Slime0_2_png,Slime0_3_png,RelicDefine_json,bird_urn_png,blackBlood_png,bombEgg_png,clericFace_png,coffeeDripper_png,ginger_png,gremlinHorn_png,iceCream_png,lizardTail_png,marbles_png,orichalcum_png,pantograph_png,paperFrog_png,red_skull_png,shovel_png,snakeSkull_png,sneckoEye_png,spiritPoop_png,strawberry_png,buff_boom_png,sleep_png,dizziness_png,Laguri_normal_png,Laguri_vfx_png,17_png,41_png,51_png,63_png,85_png,Laguri_sleep_png,BottomScene_bg_jpg,buff_reserveDefense_png,man_8_png,man_0_png,man_1_png,man_2_png,man_3_png,man_4_png,man_5_png,man_6_png,man_7_png,ascension_png,bar_png,12_png,1d_png,2_png,2d_png,3_png,3d_png,4_png,4d_png,5_png,5d_png,border2_png,buttonL_png,buttonLRed_png,cancelButton_png,cancelButtonOutline_png,cancelButtonShadow_png,confirmButton_png,confirmButtonOutline_png,confirmButtonShadow_png,countCircle_png,deck_png,endless_png,endTurnButton_png,endTurnButtonGlow_png,endTurnHover_png,energyBlueVFX_png,energyGreenVFX_png,energyRedVFX_png,floor_png,gold_png,layer1_png,layer1d_png,layer2_png,layer2d_png,layer3_png,layer3d_png,layer4_png,layer4d_png,layer5_png,layer5d_png,layer6_png,map_png,panelGoldBag_png,panelHeart_png,proceedButton_png,proceedButtonOutline_png,proceedButtonShadow_png,layer12_png,layer1d2_png,layer22_png,layer2d2_png,layer32_png,layer3d2_png,layer42_png,layer4d2_png,layer52_png,layer5d2_png,layer62_png,settings_png,anglerFlower_png,firstBOSS_png,buff_thorns_png,guardian_png,guardianDefense_png,fire0_png,fire1_png,fireGhost_body_png,fire_0_png,fire_1_png,fire_2_png,fire_3_png,fire_4_png,fire_5_png,fire_6_png,fire_7_png,fire_vfx_png,choseBox_png,cardPP_1_png,sp_cardBg_2_png,bottom_0_png,bottom_1_png,bottom_2_png,cardName_0_png,cardName_1_png,cardName_2_png,normal_cardBg_0_png,normal_cardBg_1_png,normal_cardBg_2_png,sp_cardBg_0_png,sp_cardBg_1_png,shaderBorder_png,base_png,shadow_png,base2_png,shadow2_png,endTurnButtonEnemy_png,cancelButtonDown_png,buff_twining_png,slavemerchantblue_0_png,slavemerchantblue_1_png,slavemerchantblue_2_png,slavemerchantblue_3_png,slavemerchantblue_4_png,slavemerchantblue_5_png,slavemerchantred_0_png,slavemerchantred_1_png,slavemerchantred_2_png,slavemerchantred_3_png,slavemerchantred_4_png,slavemerchantred_5_png,heretic_0_png,heretic_1_png,heretic_2_png,heretic_3_png,heretic_4_png,heretic_5_png,mandibularworm_0_png,mandibularworm_1_png,mandibularworm_2_png,mandibularworm_3_png,mandibularworm_4_png,mandibularworm_5_png,robber_0_png,robber_1_png,robber_2_png,robber_3_png,robber_4_png,robber_5_png,despicablegoblin_png,fatgoblin_png,firegoblin_png,fungi_png,timg_png,variation_0_png,variation_1_png,variation_2_png,variation_3_png,variation_4_png,variation_5_png,variation_6_png,variation_7_png,variation_vfx_png,cure_0_png,cure_1_png,cure_2_png,cure_3_png,cure_4_png,tree_0_png,tree_1_png,tree_10_png,tree_11_png,tree_2_png,tree_3_png,tree_4_png,tree_5_png,tree_6_png,tree_7_png,tree_8_png,tree_9_png,tree_vfx_png,buff_destroyArmor_png,buff_hurtAdd_png,angry00_png,angry01_png,angry02_png,angry03_png,angry04_png,angry05_png,dragonBoxing00_png,dragonBoxing01_png,dragonBoxing02_png,dragonBoxing03_png,dragonBoxing04_png,dragonBoxing05_png,dragonBoxing06_png,dragonBoxing07_png,dragonBoxing08_png,dragonBoxing09_png,hurtMan00_png,hurtMan01_png,hurtMan02_png,hurtMan03_png,hurtMan04_png,hurtMan05_png,l_bird_urn_png,l_spiritPoop_png,l_strawberry_png,l_blackBlood_png,l_clericFace_png,l_coffeeDripper_png,l_ginger_png,l_gremlinHorn_png,l_iceCream_png,l_lizardTail_png,l_marbles_png,l_orichalcum_png,l_pantograph_png,l_paperFrog_png,l_red_skull_png,l_shovel_png,l_snakeSkull_png,l_sneckoEye_png,l_bombEgg_png,popupArrow_png,relicPopup_png,confirmButtonDown_png,bossCardReward_png,normalCardReward_png,rewardListItemPanel_png,rewardScreenSheet_png,selectBanner_png,zhs_png,zhs2_png,zhs4_png,rest_png,chest_png,circle1_png,circle2_png,circle3_png,circle4_png,dot1_png,elite_png,event_png,monster_png,Map1Define_json,circle0_png,Asu000_00_png,Asu000_01_png,Asu000_02_png,Asu000_03_png,Asu000_04_png,Asu000_05_png,Asu000_06_png,Asu000_07_png,ball_png,disabledButton_png,enabledButton_png,lose_png,nopants_png,a_jpg,acdc_jpg,b_jpg,c_jpg,d_jpg,disabledButton2_png,e_jpg,enabledButton2_png,f_jpg,imgFrame_png,lowb_png,panel_png,q_jpg,roomTextPanel_png,Shrine_png,upupup_jpg,w_jpg,world_png,jieGe_jpg,jljy_jpg,buttonShadow_png,outline_png,scene2_jpg,scene2_png,shoulder_png,sleep2_png,sleepDisabled_png,sleepL_png,spinButton_png,zzz_png,shop_png,MapBg_png,legend2_png,zhuazi_png,title_bg_jpg,role_0_bg_png,role_1_bg_png,Map2Define_json,ichi_11_png,ichi_0_png,ichi_1_png,ichi_2_png,ichi_3_png,ichi_4_png,ichi_5_png,ichi_6_png,ichi_7_png,ichi_8_png,ichi_9_png,ichi_10_png,role_2_bg_png,guardianMap_png,champ_png,acrobatics_png,adrenaline_png,bandage_up_png,barricade_png,bash_png,berserk_png,blade_dance_png,blind_png,blood_for_blood_png,bludgeon_png,clash_png,cleave_png,coolheaded_png,dash_png,deadly_poison_png,defend_png,demon_form_png,die_die_die_png,double_tap_png,expertise_png,feel_no_pain_png,fire_breathing_png,flame_barrier_png,flash_of_steel_png,flex_png,flying_knee_png,hand_of_greed_png,heavy_blade_png,impervious_png,iron_wave_png,leg_sweep_png,madness_png,master_of_strategy_png,metamorphosis_png,nightmare_png,outmaneuver_png,poisoned_stab_png,pommel_strike_png,riddle_with_holes_png,rupture_png,seeing_red_png,sentinel_png,shiv_png,shrug_it_off_png,strike_png,sucker_punch_png,terror_png,the_bomb_png,thunder_clap_png,trip_png,twin_strike_png,uppercut_png,void_png,warcry_png,wound_png,wa38_png,wa0_png,wa1_png,wa2_png,wa3_png,wa4_png,wa5_png,wa6_png,wa7_png,wa8_png,wa9_png,wa10_png,wa11_png,wa12_png,wa13_png,wa14_png,wa15_png,wa16_png,wa17_png,wa18_png,wa19_png,wa20_png,wa21_png,wa22_png,wa23_png,wa24_png,wa25_png,wa26_png,wa27_png,wa28_png,wa30_png,wa31_png,wa32_png,wa33_png,wa34_png,wa35_png,wa36_png,wa37_png,wa29_png,grass_png,grassLand_png,land_png,loadBg_jpg,endBg_png,endTurnButton2_png,endTurnButtonGlow2_png,selectBanner2_png,Map4Define_json,Map3Define_json,toggleButtonOverlay2_png,verticalSlider_png,abandon_png,confirm_png,no_png,quitButton_png,sliderBg_png,toggleButtonBase_png,STS_Boss1MindBloom_v1_mp3,logo_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/Json/LevelDefine.json",
+			"type": "json",
+			"name": "LevelDefine_json"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/cx.png",
+			"type": "image",
+			"name": "cx_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/blood_bar_bg.png",
+			"type": "image",
+			"name": "blood_bar_bg_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/blood_bar_front.png",
+			"type": "image",
+			"name": "blood_bar_front_png"
+		},
+		{
+			"url": "assets/Json/CardDefine.json",
+			"type": "json",
+			"name": "CardDefine_json"
+		},
+		{
+			"url": "assets/GameImg/CardImg/arrow.png",
+			"type": "image",
+			"name": "arrow_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/defense_img.png",
+			"type": "image",
+			"name": "defense_img_png"
+		},
+		{
+			"url": "assets/Json/BuffDefine.json",
+			"type": "json",
+			"name": "BuffDefine_json"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_powerUp.png",
+			"type": "image",
+			"name": "buff_powerUp_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_mutipleDefense.png",
+			"type": "image",
+			"name": "buff_mutipleDefense_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_week.png",
+			"type": "image",
+			"name": "buff_week_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_chaos.png",
+			"type": "image",
+			"name": "buff_chaos_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_poisoning.png",
+			"type": "image",
+			"name": "buff_poisoning_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_plusPP.png",
+			"type": "image",
+			"name": "buff_plusPP_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_maimed.png",
+			"type": "image",
+			"name": "buff_maimed_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_resultDefense.png",
+			"type": "image",
+			"name": "buff_resultDefense_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_randomDamage.png",
+			"type": "image",
+			"name": "buff_randomDamage_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_result.png",
+			"type": "image",
+			"name": "buff_result_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_regrowth.png",
+			"type": "image",
+			"name": "buff_regrowth_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_roundPowerUp.png",
+			"type": "image",
+			"name": "buff_roundPowerUp_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/monsterActionTips/powerUp.png",
+			"type": "image",
+			"name": "powerUp_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/monsterActionTips/attack.png",
+			"type": "image",
+			"name": "attack_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/monsterActionTips/defense.png",
+			"type": "image",
+			"name": "defense_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/monsterActionTips/debuff.png",
+			"type": "image",
+			"name": "debuff_png"
+		},
+		{
+			"url": "assets/Json/MonsterActionDefine.json",
+			"type": "json",
+			"name": "MonsterActionDefine_json"
+		},
+		{
+			"url": "assets/GameImg/VFX/38.png",
+			"type": "image",
+			"name": "38_png"
+		},
+		{
+			"url": "assets/GameImg/VFX/49.png",
+			"type": "image",
+			"name": "49_png"
+		},
+		{
+			"url": "assets/GameImg/VFX/32.png",
+			"type": "image",
+			"name": "32_png"
+		},
+		{
+			"url": "assets/GameImg/VFX/1.png",
+			"type": "image",
+			"name": "1_png"
+		},
+		{
+			"url": "assets/GameImg/VFX/10.png",
+			"type": "image",
+			"name": "10_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/monsterActionTips/Unknown.png",
+			"type": "image",
+			"name": "Unknown_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/monsterActionTips/division.png",
+			"type": "image",
+			"name": "division_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_division.png",
+			"type": "image",
+			"name": "buff_division_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Slime/SlimeL/Slime2_1.png",
+			"type": "image",
+			"name": "Slime2_1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Slime/SlimeL/Slime2_2.png",
+			"type": "image",
+			"name": "Slime2_2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Slime/SlimeL/Slime2_3.png",
+			"type": "image",
+			"name": "Slime2_3_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Slime/SlimeM/Slime1_1.png",
+			"type": "image",
+			"name": "Slime1_1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Slime/SlimeM/Slime1_2.png",
+			"type": "image",
+			"name": "Slime1_2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Slime/SlimeM/Slime1_3.png",
+			"type": "image",
+			"name": "Slime1_3_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Slime/SlimeS/Slime0_1.png",
+			"type": "image",
+			"name": "Slime0_1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Slime/SlimeS/Slime0_2.png",
+			"type": "image",
+			"name": "Slime0_2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Slime/SlimeS/Slime0_3.png",
+			"type": "image",
+			"name": "Slime0_3_png"
+		},
+		{
+			"url": "assets/Json/RelicDefine.json",
+			"type": "json",
+			"name": "RelicDefine_json"
+		},
+		{
+			"url": "assets/GameImg/Relic/bird_urn.png",
+			"type": "image",
+			"name": "bird_urn_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/blackBlood.png",
+			"type": "image",
+			"name": "blackBlood_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/bombEgg.png",
+			"type": "image",
+			"name": "bombEgg_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/clericFace.png",
+			"type": "image",
+			"name": "clericFace_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/coffeeDripper.png",
+			"type": "image",
+			"name": "coffeeDripper_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/ginger.png",
+			"type": "image",
+			"name": "ginger_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/gremlinHorn.png",
+			"type": "image",
+			"name": "gremlinHorn_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/iceCream.png",
+			"type": "image",
+			"name": "iceCream_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/lizardTail.png",
+			"type": "image",
+			"name": "lizardTail_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/marbles.png",
+			"type": "image",
+			"name": "marbles_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/orichalcum.png",
+			"type": "image",
+			"name": "orichalcum_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/pantograph.png",
+			"type": "image",
+			"name": "pantograph_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/paperFrog.png",
+			"type": "image",
+			"name": "paperFrog_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/red_skull.png",
+			"type": "image",
+			"name": "red_skull_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/shovel.png",
+			"type": "image",
+			"name": "shovel_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/snakeSkull.png",
+			"type": "image",
+			"name": "snakeSkull_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/sneckoEye.png",
+			"type": "image",
+			"name": "sneckoEye_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/spiritPoop.png",
+			"type": "image",
+			"name": "spiritPoop_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/strawberry.png",
+			"type": "image",
+			"name": "strawberry_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_boom.png",
+			"type": "image",
+			"name": "buff_boom_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/monsterActionTips/sleep.png",
+			"type": "image",
+			"name": "sleep_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/monsterActionTips/dizziness.png",
+			"type": "image",
+			"name": "dizziness_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Laguri/Laguri_normal.png",
+			"type": "image",
+			"name": "Laguri_normal_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Laguri/Laguri_vfx.png",
+			"type": "image",
+			"name": "Laguri_vfx_png"
+		},
+		{
+			"url": "assets/GameImg/VFX/17.png",
+			"type": "image",
+			"name": "17_png"
+		},
+		{
+			"url": "assets/GameImg/VFX/41.png",
+			"type": "image",
+			"name": "41_png"
+		},
+		{
+			"url": "assets/GameImg/VFX/51.png",
+			"type": "image",
+			"name": "51_png"
+		},
+		{
+			"url": "assets/GameImg/VFX/63.png",
+			"type": "image",
+			"name": "63_png"
+		},
+		{
+			"url": "assets/GameImg/VFX/85.png",
+			"type": "image",
+			"name": "85_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Laguri/Laguri_sleep.png",
+			"type": "image",
+			"name": "Laguri_sleep_png"
+		},
+		{
+			"url": "assets/GameImg/GameScene/BottomScene/BottomScene_bg.jpg",
+			"type": "image",
+			"name": "BottomScene_bg_jpg"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_reserveDefense.png",
+			"type": "image",
+			"name": "buff_reserveDefense_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Mani/man_8.png",
+			"type": "image",
+			"name": "man_8_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Mani/man_0.png",
+			"type": "image",
+			"name": "man_0_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Mani/man_1.png",
+			"type": "image",
+			"name": "man_1_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Mani/man_2.png",
+			"type": "image",
+			"name": "man_2_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Mani/man_3.png",
+			"type": "image",
+			"name": "man_3_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Mani/man_4.png",
+			"type": "image",
+			"name": "man_4_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Mani/man_5.png",
+			"type": "image",
+			"name": "man_5_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Mani/man_6.png",
+			"type": "image",
+			"name": "man_6_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Mani/man_7.png",
+			"type": "image",
+			"name": "man_7_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/ascension.png",
+			"type": "image",
+			"name": "ascension_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/bar.png",
+			"type": "image",
+			"name": "bar_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/blue/1.png",
+			"type": "image",
+			"name": "12_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/blue/1d.png",
+			"type": "image",
+			"name": "1d_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/blue/2.png",
+			"type": "image",
+			"name": "2_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/blue/2d.png",
+			"type": "image",
+			"name": "2d_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/blue/3.png",
+			"type": "image",
+			"name": "3_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/blue/3d.png",
+			"type": "image",
+			"name": "3d_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/blue/4.png",
+			"type": "image",
+			"name": "4_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/blue/4d.png",
+			"type": "image",
+			"name": "4d_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/blue/5.png",
+			"type": "image",
+			"name": "5_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/blue/5d.png",
+			"type": "image",
+			"name": "5d_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/blue/border.png",
+			"type": "image",
+			"name": "border2_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/buttonL.png",
+			"type": "image",
+			"name": "buttonL_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/buttonLRed.png",
+			"type": "image",
+			"name": "buttonLRed_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/cancelButton.png",
+			"type": "image",
+			"name": "cancelButton_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/cancelButtonOutline.png",
+			"type": "image",
+			"name": "cancelButtonOutline_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/cancelButtonShadow.png",
+			"type": "image",
+			"name": "cancelButtonShadow_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/confirmButton.png",
+			"type": "image",
+			"name": "confirmButton_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/confirmButtonOutline.png",
+			"type": "image",
+			"name": "confirmButtonOutline_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/confirmButtonShadow.png",
+			"type": "image",
+			"name": "confirmButtonShadow_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/countCircle.png",
+			"type": "image",
+			"name": "countCircle_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/deck.png",
+			"type": "image",
+			"name": "deck_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/endless.png",
+			"type": "image",
+			"name": "endless_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/endTurnButton.png",
+			"type": "image",
+			"name": "endTurnButton_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/endTurnButtonGlow.png",
+			"type": "image",
+			"name": "endTurnButtonGlow_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/endTurnHover.png",
+			"type": "image",
+			"name": "endTurnHover_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/energyBlueVFX.png",
+			"type": "image",
+			"name": "energyBlueVFX_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/energyGreenVFX.png",
+			"type": "image",
+			"name": "energyGreenVFX_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/energyRedVFX.png",
+			"type": "image",
+			"name": "energyRedVFX_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/floor.png",
+			"type": "image",
+			"name": "floor_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/gold.png",
+			"type": "image",
+			"name": "gold_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/green/layer1.png",
+			"type": "image",
+			"name": "layer1_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/green/layer1d.png",
+			"type": "image",
+			"name": "layer1d_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/green/layer2.png",
+			"type": "image",
+			"name": "layer2_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/green/layer2d.png",
+			"type": "image",
+			"name": "layer2d_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/green/layer3.png",
+			"type": "image",
+			"name": "layer3_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/green/layer3d.png",
+			"type": "image",
+			"name": "layer3d_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/green/layer4.png",
+			"type": "image",
+			"name": "layer4_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/green/layer4d.png",
+			"type": "image",
+			"name": "layer4d_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/green/layer5.png",
+			"type": "image",
+			"name": "layer5_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/green/layer5d.png",
+			"type": "image",
+			"name": "layer5d_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/green/layer6.png",
+			"type": "image",
+			"name": "layer6_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/map.png",
+			"type": "image",
+			"name": "map_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/panelGoldBag.png",
+			"type": "image",
+			"name": "panelGoldBag_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/panelHeart.png",
+			"type": "image",
+			"name": "panelHeart_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/proceedButton.png",
+			"type": "image",
+			"name": "proceedButton_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/proceedButtonOutline.png",
+			"type": "image",
+			"name": "proceedButtonOutline_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/proceedButtonShadow.png",
+			"type": "image",
+			"name": "proceedButtonShadow_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/red/layer1.png",
+			"type": "image",
+			"name": "layer12_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/red/layer1d.png",
+			"type": "image",
+			"name": "layer1d2_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/red/layer2.png",
+			"type": "image",
+			"name": "layer22_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/red/layer2d.png",
+			"type": "image",
+			"name": "layer2d2_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/red/layer3.png",
+			"type": "image",
+			"name": "layer32_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/red/layer3d.png",
+			"type": "image",
+			"name": "layer3d2_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/red/layer4.png",
+			"type": "image",
+			"name": "layer42_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/red/layer4d.png",
+			"type": "image",
+			"name": "layer4d2_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/red/layer5.png",
+			"type": "image",
+			"name": "layer52_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/red/layer5d.png",
+			"type": "image",
+			"name": "layer5d2_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/red/layer6.png",
+			"type": "image",
+			"name": "layer62_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/settings.png",
+			"type": "image",
+			"name": "settings_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/first/anglerFlower.png",
+			"type": "image",
+			"name": "anglerFlower_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/first/firstBOSS.png",
+			"type": "image",
+			"name": "firstBOSS_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_thorns.png",
+			"type": "image",
+			"name": "buff_thorns_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Guardian/guardian.png",
+			"type": "image",
+			"name": "guardian_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Guardian/guardianDefense.png",
+			"type": "image",
+			"name": "guardianDefense_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/FireGhost/fire0.png",
+			"type": "image",
+			"name": "fire0_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/FireGhost/fire1.png",
+			"type": "image",
+			"name": "fire1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/FireGhost/fireGhost_body.png",
+			"type": "image",
+			"name": "fireGhost_body_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/FireGhost/fire_0.png",
+			"type": "image",
+			"name": "fire_0_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/FireGhost/fire_1.png",
+			"type": "image",
+			"name": "fire_1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/FireGhost/fire_2.png",
+			"type": "image",
+			"name": "fire_2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/FireGhost/fire_3.png",
+			"type": "image",
+			"name": "fire_3_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/FireGhost/fire_4.png",
+			"type": "image",
+			"name": "fire_4_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/FireGhost/fire_5.png",
+			"type": "image",
+			"name": "fire_5_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/FireGhost/fire_6.png",
+			"type": "image",
+			"name": "fire_6_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/FireGhost/fire_7.png",
+			"type": "image",
+			"name": "fire_7_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/FireGhost/fire_vfx.png",
+			"type": "image",
+			"name": "fire_vfx_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/choseBox.png",
+			"type": "image",
+			"name": "choseBox_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/cardPP_1.png",
+			"type": "image",
+			"name": "cardPP_1_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/CardImgBeta/sp_cardBg_2.png",
+			"type": "image",
+			"name": "sp_cardBg_2_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/CardImgBeta/bottom_0.png",
+			"type": "image",
+			"name": "bottom_0_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/CardImgBeta/bottom_1.png",
+			"type": "image",
+			"name": "bottom_1_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/CardImgBeta/bottom_2.png",
+			"type": "image",
+			"name": "bottom_2_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/CardImgBeta/cardName_0.png",
+			"type": "image",
+			"name": "cardName_0_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/CardImgBeta/cardName_1.png",
+			"type": "image",
+			"name": "cardName_1_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/CardImgBeta/cardName_2.png",
+			"type": "image",
+			"name": "cardName_2_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/CardImgBeta/normal_cardBg_0.png",
+			"type": "image",
+			"name": "normal_cardBg_0_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/CardImgBeta/normal_cardBg_1.png",
+			"type": "image",
+			"name": "normal_cardBg_1_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/CardImgBeta/normal_cardBg_2.png",
+			"type": "image",
+			"name": "normal_cardBg_2_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/CardImgBeta/sp_cardBg_0.png",
+			"type": "image",
+			"name": "sp_cardBg_0_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/CardImgBeta/sp_cardBg_1.png",
+			"type": "image",
+			"name": "sp_cardBg_1_png"
+		},
+		{
+			"url": "assets/GameImg/CardImg/CardImgBeta/shaderBorder.png",
+			"type": "image",
+			"name": "shaderBorder_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/deckButton/base.png",
+			"type": "image",
+			"name": "base_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/deckButton/shadow.png",
+			"type": "image",
+			"name": "shadow_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/discardButton/base.png",
+			"type": "image",
+			"name": "base2_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/discardButton/shadow.png",
+			"type": "image",
+			"name": "shadow2_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/endTurnButtonEnemy.png",
+			"type": "image",
+			"name": "endTurnButtonEnemy_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/cancelButtonDown.png",
+			"type": "image",
+			"name": "cancelButtonDown_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_twining.png",
+			"type": "image",
+			"name": "buff_twining_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Blue/slavemerchantblue_0.png",
+			"type": "image",
+			"name": "slavemerchantblue_0_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Blue/slavemerchantblue_1.png",
+			"type": "image",
+			"name": "slavemerchantblue_1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Blue/slavemerchantblue_2.png",
+			"type": "image",
+			"name": "slavemerchantblue_2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Blue/slavemerchantblue_3.png",
+			"type": "image",
+			"name": "slavemerchantblue_3_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Blue/slavemerchantblue_4.png",
+			"type": "image",
+			"name": "slavemerchantblue_4_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Blue/slavemerchantblue_5.png",
+			"type": "image",
+			"name": "slavemerchantblue_5_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Blue/slavemerchantred_0.png",
+			"type": "image",
+			"name": "slavemerchantred_0_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Blue/slavemerchantred_1.png",
+			"type": "image",
+			"name": "slavemerchantred_1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Blue/slavemerchantred_2.png",
+			"type": "image",
+			"name": "slavemerchantred_2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Blue/slavemerchantred_3.png",
+			"type": "image",
+			"name": "slavemerchantred_3_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Blue/slavemerchantred_4.png",
+			"type": "image",
+			"name": "slavemerchantred_4_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Blue/slavemerchantred_5.png",
+			"type": "image",
+			"name": "slavemerchantred_5_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Heretic/heretic_0.png",
+			"type": "image",
+			"name": "heretic_0_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Heretic/heretic_1.png",
+			"type": "image",
+			"name": "heretic_1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Heretic/heretic_2.png",
+			"type": "image",
+			"name": "heretic_2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Heretic/heretic_3.png",
+			"type": "image",
+			"name": "heretic_3_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Heretic/heretic_4.png",
+			"type": "image",
+			"name": "heretic_4_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Heretic/heretic_5.png",
+			"type": "image",
+			"name": "heretic_5_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Mandibularworm/mandibularworm_0.png",
+			"type": "image",
+			"name": "mandibularworm_0_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Mandibularworm/mandibularworm_1.png",
+			"type": "image",
+			"name": "mandibularworm_1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Mandibularworm/mandibularworm_2.png",
+			"type": "image",
+			"name": "mandibularworm_2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Mandibularworm/mandibularworm_3.png",
+			"type": "image",
+			"name": "mandibularworm_3_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Mandibularworm/mandibularworm_4.png",
+			"type": "image",
+			"name": "mandibularworm_4_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Mandibularworm/mandibularworm_5.png",
+			"type": "image",
+			"name": "mandibularworm_5_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Robber/robber_0.png",
+			"type": "image",
+			"name": "robber_0_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Robber/robber_1.png",
+			"type": "image",
+			"name": "robber_1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Robber/robber_2.png",
+			"type": "image",
+			"name": "robber_2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Robber/robber_3.png",
+			"type": "image",
+			"name": "robber_3_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Robber/robber_4.png",
+			"type": "image",
+			"name": "robber_4_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Robber/robber_5.png",
+			"type": "image",
+			"name": "robber_5_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/despicablegoblin.png",
+			"type": "image",
+			"name": "despicablegoblin_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/fatgoblin.png",
+			"type": "image",
+			"name": "fatgoblin_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/firegoblin.png",
+			"type": "image",
+			"name": "firegoblin_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/fungi.png",
+			"type": "image",
+			"name": "fungi_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/timg.png",
+			"type": "image",
+			"name": "timg_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Variation/variation_0.png",
+			"type": "image",
+			"name": "variation_0_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Variation/variation_1.png",
+			"type": "image",
+			"name": "variation_1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Variation/variation_2.png",
+			"type": "image",
+			"name": "variation_2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Variation/variation_3.png",
+			"type": "image",
+			"name": "variation_3_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Variation/variation_4.png",
+			"type": "image",
+			"name": "variation_4_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Variation/variation_5.png",
+			"type": "image",
+			"name": "variation_5_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Variation/variation_6.png",
+			"type": "image",
+			"name": "variation_6_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Variation/variation_7.png",
+			"type": "image",
+			"name": "variation_7_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/Variation/variation_vfx.png",
+			"type": "image",
+			"name": "variation_vfx_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/cure_0.png",
+			"type": "image",
+			"name": "cure_0_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/cure_1.png",
+			"type": "image",
+			"name": "cure_1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/cure_2.png",
+			"type": "image",
+			"name": "cure_2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/cure_3.png",
+			"type": "image",
+			"name": "cure_3_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/cure_4.png",
+			"type": "image",
+			"name": "cure_4_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/tree_0.png",
+			"type": "image",
+			"name": "tree_0_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/tree_1.png",
+			"type": "image",
+			"name": "tree_1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/tree_10.png",
+			"type": "image",
+			"name": "tree_10_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/tree_11.png",
+			"type": "image",
+			"name": "tree_11_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/tree_2.png",
+			"type": "image",
+			"name": "tree_2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/tree_3.png",
+			"type": "image",
+			"name": "tree_3_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/tree_4.png",
+			"type": "image",
+			"name": "tree_4_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/tree_5.png",
+			"type": "image",
+			"name": "tree_5_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/tree_6.png",
+			"type": "image",
+			"name": "tree_6_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/tree_7.png",
+			"type": "image",
+			"name": "tree_7_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/tree_8.png",
+			"type": "image",
+			"name": "tree_8_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/tree_9.png",
+			"type": "image",
+			"name": "tree_9_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/PriestTree/tree_vfx.png",
+			"type": "image",
+			"name": "tree_vfx_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_destroyArmor.png",
+			"type": "image",
+			"name": "buff_destroyArmor_png"
+		},
+		{
+			"url": "assets/GameImg/Buff/buff_hurtAdd.png",
+			"type": "image",
+			"name": "buff_hurtAdd_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/AngryMan/angry00.png",
+			"type": "image",
+			"name": "angry00_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/AngryMan/angry01.png",
+			"type": "image",
+			"name": "angry01_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/AngryMan/angry02.png",
+			"type": "image",
+			"name": "angry02_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/AngryMan/angry03.png",
+			"type": "image",
+			"name": "angry03_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/AngryMan/angry04.png",
+			"type": "image",
+			"name": "angry04_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/AngryMan/angry05.png",
+			"type": "image",
+			"name": "angry05_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/DragonBoxing/dragonBoxing00.png",
+			"type": "image",
+			"name": "dragonBoxing00_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/DragonBoxing/dragonBoxing01.png",
+			"type": "image",
+			"name": "dragonBoxing01_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/DragonBoxing/dragonBoxing02.png",
+			"type": "image",
+			"name": "dragonBoxing02_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/DragonBoxing/dragonBoxing03.png",
+			"type": "image",
+			"name": "dragonBoxing03_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/DragonBoxing/dragonBoxing04.png",
+			"type": "image",
+			"name": "dragonBoxing04_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/DragonBoxing/dragonBoxing05.png",
+			"type": "image",
+			"name": "dragonBoxing05_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/DragonBoxing/dragonBoxing06.png",
+			"type": "image",
+			"name": "dragonBoxing06_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/DragonBoxing/dragonBoxing07.png",
+			"type": "image",
+			"name": "dragonBoxing07_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/DragonBoxing/dragonBoxing08.png",
+			"type": "image",
+			"name": "dragonBoxing08_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/DragonBoxing/dragonBoxing09.png",
+			"type": "image",
+			"name": "dragonBoxing09_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/PryingTree/hurtMan00.png",
+			"type": "image",
+			"name": "hurtMan00_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/PryingTree/hurtMan01.png",
+			"type": "image",
+			"name": "hurtMan01_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/PryingTree/hurtMan02.png",
+			"type": "image",
+			"name": "hurtMan02_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/PryingTree/hurtMan03.png",
+			"type": "image",
+			"name": "hurtMan03_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/PryingTree/hurtMan04.png",
+			"type": "image",
+			"name": "hurtMan04_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/eliteMonster/PryingTree/hurtMan05.png",
+			"type": "image",
+			"name": "hurtMan05_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_bird_urn.png",
+			"type": "image",
+			"name": "l_bird_urn_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_spiritPoop.png",
+			"type": "image",
+			"name": "l_spiritPoop_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_strawberry.png",
+			"type": "image",
+			"name": "l_strawberry_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_blackBlood.png",
+			"type": "image",
+			"name": "l_blackBlood_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_clericFace.png",
+			"type": "image",
+			"name": "l_clericFace_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_coffeeDripper.png",
+			"type": "image",
+			"name": "l_coffeeDripper_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_ginger.png",
+			"type": "image",
+			"name": "l_ginger_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_gremlinHorn.png",
+			"type": "image",
+			"name": "l_gremlinHorn_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_iceCream.png",
+			"type": "image",
+			"name": "l_iceCream_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_lizardTail.png",
+			"type": "image",
+			"name": "l_lizardTail_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_marbles.png",
+			"type": "image",
+			"name": "l_marbles_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_orichalcum.png",
+			"type": "image",
+			"name": "l_orichalcum_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_pantograph.png",
+			"type": "image",
+			"name": "l_pantograph_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_paperFrog.png",
+			"type": "image",
+			"name": "l_paperFrog_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_red_skull.png",
+			"type": "image",
+			"name": "l_red_skull_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_shovel.png",
+			"type": "image",
+			"name": "l_shovel_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_snakeSkull.png",
+			"type": "image",
+			"name": "l_snakeSkull_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_sneckoEye.png",
+			"type": "image",
+			"name": "l_sneckoEye_png"
+		},
+		{
+			"url": "assets/GameImg/Relic/LargeRelic/l_bombEgg.png",
+			"type": "image",
+			"name": "l_bombEgg_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/popupArrow.png",
+			"type": "image",
+			"name": "popupArrow_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/relicPopup.png",
+			"type": "image",
+			"name": "relicPopup_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/topPanel/confirmButtonDown.png",
+			"type": "image",
+			"name": "confirmButtonDown_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/reward/bossCardReward.png",
+			"type": "image",
+			"name": "bossCardReward_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/reward/normalCardReward.png",
+			"type": "image",
+			"name": "normalCardReward_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/reward/rewardListItemPanel.png",
+			"type": "image",
+			"name": "rewardListItemPanel_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/reward/rewardScreenSheet.png",
+			"type": "image",
+			"name": "rewardScreenSheet_png"
+		},
+		{
+			"url": "assets/GameImg/Ui/reward/selectBanner.png",
+			"type": "image",
+			"name": "selectBanner_png"
+		},
+		{
+			"url": "assets/GameImg/npcs/purge/zhs.png",
+			"type": "image",
+			"name": "zhs_png"
+		},
+		{
+			"url": "assets/GameImg/npcs/rug/zhs.png",
+			"type": "image",
+			"name": "zhs2_png"
+		},
+		{
+			"url": "assets/GameImg/npcs/sold_out/zhs.png",
+			"type": "image",
+			"name": "zhs4_png"
+		},
+		{
+			"url": "assets/GameImg/Map/rest.png",
+			"type": "image",
+			"name": "rest_png"
+		},
+		{
+			"url": "assets/GameImg/Map/chest.png",
+			"type": "image",
+			"name": "chest_png"
+		},
+		{
+			"url": "assets/GameImg/Map/circle1.png",
+			"type": "image",
+			"name": "circle1_png"
+		},
+		{
+			"url": "assets/GameImg/Map/circle2.png",
+			"type": "image",
+			"name": "circle2_png"
+		},
+		{
+			"url": "assets/GameImg/Map/circle3.png",
+			"type": "image",
+			"name": "circle3_png"
+		},
+		{
+			"url": "assets/GameImg/Map/circle4.png",
+			"type": "image",
+			"name": "circle4_png"
+		},
+		{
+			"url": "assets/GameImg/Map/dot1.png",
+			"type": "image",
+			"name": "dot1_png"
+		},
+		{
+			"url": "assets/GameImg/Map/elite.png",
+			"type": "image",
+			"name": "elite_png"
+		},
+		{
+			"url": "assets/GameImg/Map/event.png",
+			"type": "image",
+			"name": "event_png"
+		},
+		{
+			"url": "assets/GameImg/Map/monster.png",
+			"type": "image",
+			"name": "monster_png"
+		},
+		{
+			"url": "assets/Json/Map1Define.json",
+			"type": "json",
+			"name": "Map1Define_json"
+		},
+		{
+			"url": "assets/GameImg/Map/circle0.png",
+			"type": "image",
+			"name": "circle0_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Asu/Asu000_00.png",
+			"type": "image",
+			"name": "Asu000_00_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Asu/Asu000_01.png",
+			"type": "image",
+			"name": "Asu000_01_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Asu/Asu000_02.png",
+			"type": "image",
+			"name": "Asu000_02_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Asu/Asu000_03.png",
+			"type": "image",
+			"name": "Asu000_03_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Asu/Asu000_04.png",
+			"type": "image",
+			"name": "Asu000_04_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Asu/Asu000_05.png",
+			"type": "image",
+			"name": "Asu000_05_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Asu/Asu000_06.png",
+			"type": "image",
+			"name": "Asu000_06_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Asu/Asu000_07.png",
+			"type": "image",
+			"name": "Asu000_07_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg/ball.png",
+			"type": "image",
+			"name": "ball_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg/disabledButton.png",
+			"type": "image",
+			"name": "disabledButton_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg/enabledButton.png",
+			"type": "image",
+			"name": "enabledButton_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg/lose.png",
+			"type": "image",
+			"name": "lose_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg/nopants.png",
+			"type": "image",
+			"name": "nopants_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/a.jpg",
+			"type": "image",
+			"name": "a_jpg"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/acdc.jpg",
+			"type": "image",
+			"name": "acdc_jpg"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/b.jpg",
+			"type": "image",
+			"name": "b_jpg"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/c.jpg",
+			"type": "image",
+			"name": "c_jpg"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/d.jpg",
+			"type": "image",
+			"name": "d_jpg"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/disabledButton.png",
+			"type": "image",
+			"name": "disabledButton2_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/e.jpg",
+			"type": "image",
+			"name": "e_jpg"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/enabledButton.png",
+			"type": "image",
+			"name": "enabledButton2_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/f.jpg",
+			"type": "image",
+			"name": "f_jpg"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/imgFrame.png",
+			"type": "image",
+			"name": "imgFrame_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/lowb.png",
+			"type": "image",
+			"name": "lowb_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/panel.png",
+			"type": "image",
+			"name": "panel_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/q.jpg",
+			"type": "image",
+			"name": "q_jpg"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/roomTextPanel.png",
+			"type": "image",
+			"name": "roomTextPanel_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/Shrine.png",
+			"type": "image",
+			"name": "Shrine_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/upupup.jpg",
+			"type": "image",
+			"name": "upupup_jpg"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/w.jpg",
+			"type": "image",
+			"name": "w_jpg"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/world.png",
+			"type": "image",
+			"name": "world_png"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/jieGe.jpg",
+			"type": "image",
+			"name": "jieGe_jpg"
+		},
+		{
+			"url": "assets/GameImg/Event/EventImg1/jljy.jpg",
+			"type": "image",
+			"name": "jljy_jpg"
+		},
+		{
+			"url": "assets/GameImg/GameScene/RestScene/buttonShadow.png",
+			"type": "image",
+			"name": "buttonShadow_png"
+		},
+		{
+			"url": "assets/GameImg/GameScene/RestScene/outline.png",
+			"type": "image",
+			"name": "outline_png"
+		},
+		{
+			"url": "assets/GameImg/GameScene/RestScene/scene2.jpg",
+			"type": "image",
+			"name": "scene2_jpg"
+		},
+		{
+			"url": "assets/GameImg/GameScene/RestScene/scene2.png",
+			"type": "image",
+			"name": "scene2_png"
+		},
+		{
+			"url": "assets/GameImg/GameScene/RestScene/shoulder.png",
+			"type": "image",
+			"name": "shoulder_png"
+		},
+		{
+			"url": "assets/GameImg/GameScene/RestScene/sleep.png",
+			"type": "image",
+			"name": "sleep2_png"
+		},
+		{
+			"url": "assets/GameImg/GameScene/RestScene/sleepDisabled.png",
+			"type": "image",
+			"name": "sleepDisabled_png"
+		},
+		{
+			"url": "assets/GameImg/GameScene/RestScene/sleepL.png",
+			"type": "image",
+			"name": "sleepL_png"
+		},
+		{
+			"url": "assets/GameImg/GameScene/RestScene/spinButton.png",
+			"type": "image",
+			"name": "spinButton_png"
+		},
+		{
+			"url": "assets/GameImg/GameScene/RestScene/zzz.png",
+			"type": "image",
+			"name": "zzz_png"
+		},
+		{
+			"url": "assets/GameImg/Map/shop.png",
+			"type": "image",
+			"name": "shop_png"
+		},
+		{
+			"url": "assets/GameImg/Map/MapBg.png",
+			"type": "image",
+			"name": "MapBg_png"
+		},
+		{
+			"url": "assets/GameImg/Map/legend2.png",
+			"type": "image",
+			"name": "legend2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/zhuazi.png",
+			"type": "image",
+			"name": "zhuazi_png"
+		},
+		{
+			"url": "assets/GameImg/GameScene/title_bg.jpg",
+			"type": "image",
+			"name": "title_bg_jpg"
+		},
+		{
+			"url": "assets/GameImg/Player/Mani/role_0_bg.png",
+			"type": "image",
+			"name": "role_0_bg_png"
+		},
+		{
+			"url": "assets/GameImg/Player/Asu/role_1_bg.png",
+			"type": "image",
+			"name": "role_1_bg_png"
+		},
+		{
+			"url": "assets/Json/Map2Define.json",
+			"type": "json",
+			"name": "Map2Define_json"
+		},
+		{
+			"url": "assets/GameImg/Player/ichi/ichi_11.png",
+			"type": "image",
+			"name": "ichi_11_png"
+		},
+		{
+			"url": "assets/GameImg/Player/ichi/ichi_0.png",
+			"type": "image",
+			"name": "ichi_0_png"
+		},
+		{
+			"url": "assets/GameImg/Player/ichi/ichi_1.png",
+			"type": "image",
+			"name": "ichi_1_png"
+		},
+		{
+			"url": "assets/GameImg/Player/ichi/ichi_2.png",
+			"type": "image",
+			"name": "ichi_2_png"
+		},
+		{
+			"url": "assets/GameImg/Player/ichi/ichi_3.png",
+			"type": "image",
+			"name": "ichi_3_png"
+		},
+		{
+			"url": "assets/GameImg/Player/ichi/ichi_4.png",
+			"type": "image",
+			"name": "ichi_4_png"
+		},
+		{
+			"url": "assets/GameImg/Player/ichi/ichi_5.png",
+			"type": "image",
+			"name": "ichi_5_png"
+		},
+		{
+			"url": "assets/GameImg/Player/ichi/ichi_6.png",
+			"type": "image",
+			"name": "ichi_6_png"
+		},
+		{
+			"url": "assets/GameImg/Player/ichi/ichi_7.png",
+			"type": "image",
+			"name": "ichi_7_png"
+		},
+		{
+			"url": "assets/GameImg/Player/ichi/ichi_8.png",
+			"type": "image",
+			"name": "ichi_8_png"
+		},
+		{
+			"url": "assets/GameImg/Player/ichi/ichi_9.png",
+			"type": "image",
+			"name": "ichi_9_png"
+		},
+		{
+			"url": "assets/GameImg/Player/ichi/ichi_10.png",
+			"type": "image",
+			"name": "ichi_10_png"
+		},
+		{
+			"url": "assets/GameImg/Player/ichi/role_2_bg.png",
+			"type": "image",
+			"name": "role_2_bg_png"
+		},
+		{
+			"url": "assets/GameImg/Map/guardianMap.png",
+			"type": "image",
+			"name": "guardianMap_png"
+		},
+		{
+			"url": "assets/GameImg/Map/champ.png",
+			"type": "image",
+			"name": "champ_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/acrobatics.png",
+			"type": "image",
+			"name": "acrobatics_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/adrenaline.png",
+			"type": "image",
+			"name": "adrenaline_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/bandage_up.png",
+			"type": "image",
+			"name": "bandage_up_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/barricade.png",
+			"type": "image",
+			"name": "barricade_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/bash.png",
+			"type": "image",
+			"name": "bash_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/berserk.png",
+			"type": "image",
+			"name": "berserk_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/blade_dance.png",
+			"type": "image",
+			"name": "blade_dance_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/blind.png",
+			"type": "image",
+			"name": "blind_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/blood_for_blood.png",
+			"type": "image",
+			"name": "blood_for_blood_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/bludgeon.png",
+			"type": "image",
+			"name": "bludgeon_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/clash.png",
+			"type": "image",
+			"name": "clash_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/cleave.png",
+			"type": "image",
+			"name": "cleave_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/coolheaded.png",
+			"type": "image",
+			"name": "coolheaded_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/dash.png",
+			"type": "image",
+			"name": "dash_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/deadly_poison.png",
+			"type": "image",
+			"name": "deadly_poison_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/defend.png",
+			"type": "image",
+			"name": "defend_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/demon_form.png",
+			"type": "image",
+			"name": "demon_form_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/die_die_die.png",
+			"type": "image",
+			"name": "die_die_die_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/double_tap.png",
+			"type": "image",
+			"name": "double_tap_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/expertise.png",
+			"type": "image",
+			"name": "expertise_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/feel_no_pain.png",
+			"type": "image",
+			"name": "feel_no_pain_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/fire_breathing.png",
+			"type": "image",
+			"name": "fire_breathing_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/flame_barrier.png",
+			"type": "image",
+			"name": "flame_barrier_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/flash_of_steel.png",
+			"type": "image",
+			"name": "flash_of_steel_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/flex.png",
+			"type": "image",
+			"name": "flex_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/flying_knee.png",
+			"type": "image",
+			"name": "flying_knee_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/hand_of_greed.png",
+			"type": "image",
+			"name": "hand_of_greed_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/heavy_blade.png",
+			"type": "image",
+			"name": "heavy_blade_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/impervious.png",
+			"type": "image",
+			"name": "impervious_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/iron_wave.png",
+			"type": "image",
+			"name": "iron_wave_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/leg_sweep.png",
+			"type": "image",
+			"name": "leg_sweep_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/madness.png",
+			"type": "image",
+			"name": "madness_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/master_of_strategy.png",
+			"type": "image",
+			"name": "master_of_strategy_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/metamorphosis.png",
+			"type": "image",
+			"name": "metamorphosis_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/nightmare.png",
+			"type": "image",
+			"name": "nightmare_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/outmaneuver.png",
+			"type": "image",
+			"name": "outmaneuver_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/poisoned_stab.png",
+			"type": "image",
+			"name": "poisoned_stab_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/pommel_strike.png",
+			"type": "image",
+			"name": "pommel_strike_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/riddle_with_holes.png",
+			"type": "image",
+			"name": "riddle_with_holes_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/rupture.png",
+			"type": "image",
+			"name": "rupture_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/seeing_red.png",
+			"type": "image",
+			"name": "seeing_red_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/sentinel.png",
+			"type": "image",
+			"name": "sentinel_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/shiv.png",
+			"type": "image",
+			"name": "shiv_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/shrug_it_off.png",
+			"type": "image",
+			"name": "shrug_it_off_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/strike.png",
+			"type": "image",
+			"name": "strike_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/sucker_punch.png",
+			"type": "image",
+			"name": "sucker_punch_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/terror.png",
+			"type": "image",
+			"name": "terror_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/the_bomb.png",
+			"type": "image",
+			"name": "the_bomb_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/thunder_clap.png",
+			"type": "image",
+			"name": "thunder_clap_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/trip.png",
+			"type": "image",
+			"name": "trip_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/twin_strike.png",
+			"type": "image",
+			"name": "twin_strike_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/uppercut.png",
+			"type": "image",
+			"name": "uppercut_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/void.png",
+			"type": "image",
+			"name": "void_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/warcry.png",
+			"type": "image",
+			"name": "warcry_png"
+		},
+		{
+			"url": "assets/GameImg/ImgPortrait/wound.png",
+			"type": "image",
+			"name": "wound_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa38.png",
+			"type": "image",
+			"name": "wa38_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa0.png",
+			"type": "image",
+			"name": "wa0_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa1.png",
+			"type": "image",
+			"name": "wa1_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa2.png",
+			"type": "image",
+			"name": "wa2_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa3.png",
+			"type": "image",
+			"name": "wa3_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa4.png",
+			"type": "image",
+			"name": "wa4_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa5.png",
+			"type": "image",
+			"name": "wa5_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa6.png",
+			"type": "image",
+			"name": "wa6_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa7.png",
+			"type": "image",
+			"name": "wa7_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa8.png",
+			"type": "image",
+			"name": "wa8_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa9.png",
+			"type": "image",
+			"name": "wa9_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa10.png",
+			"type": "image",
+			"name": "wa10_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa11.png",
+			"type": "image",
+			"name": "wa11_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa12.png",
+			"type": "image",
+			"name": "wa12_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa13.png",
+			"type": "image",
+			"name": "wa13_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa14.png",
+			"type": "image",
+			"name": "wa14_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa15.png",
+			"type": "image",
+			"name": "wa15_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa16.png",
+			"type": "image",
+			"name": "wa16_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa17.png",
+			"type": "image",
+			"name": "wa17_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa18.png",
+			"type": "image",
+			"name": "wa18_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa19.png",
+			"type": "image",
+			"name": "wa19_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa20.png",
+			"type": "image",
+			"name": "wa20_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa21.png",
+			"type": "image",
+			"name": "wa21_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa22.png",
+			"type": "image",
+			"name": "wa22_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa23.png",
+			"type": "image",
+			"name": "wa23_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa24.png",
+			"type": "image",
+			"name": "wa24_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa25.png",
+			"type": "image",
+			"name": "wa25_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa26.png",
+			"type": "image",
+			"name": "wa26_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa27.png",
+			"type": "image",
+			"name": "wa27_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa28.png",
+			"type": "image",
+			"name": "wa28_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa30.png",
+			"type": "image",
+			"name": "wa30_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa31.png",
+			"type": "image",
+			"name": "wa31_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa32.png",
+			"type": "image",
+			"name": "wa32_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa33.png",
+			"type": "image",
+			"name": "wa33_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa34.png",
+			"type": "image",
+			"name": "wa34_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa35.png",
+			"type": "image",
+			"name": "wa35_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa36.png",
+			"type": "image",
+			"name": "wa36_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa37.png",
+			"type": "image",
+			"name": "wa37_png"
+		},
+		{
+			"url": "assets/GameImg/MonsterImg/wa/wa29.png",
+			"type": "image",
+			"name": "wa29_png"
+		},
+		{
+			"url": "assets/Game/grass.png",
+			"type": "image",
+			"name": "grass_png"
+		},
+		{
+			"url": "assets/Game/grassLand.png",
+			"type": "image",
+			"name": "grassLand_png"
+		},
+		{
+			"url": "assets/Game/land.png",
+			"type": "image",
+			"name": "land_png"
+		},
+		{
+			"url": "assets/Game/loadBg.jpg",
+			"type": "image",
+			"name": "loadBg_jpg"
+		},
+		{
+			"name": "endBg_png",
+			"type": "image",
+			"url": "assets/GameImg/End/endBg.png"
+		},
+		{
+			"name": "endTurnButton2_png",
+			"type": "image",
+			"url": "assets/GameImg/End/endTurnButton.png"
+		},
+		{
+			"name": "endTurnButtonGlow2_png",
+			"type": "image",
+			"url": "assets/GameImg/End/endTurnButtonGlow.png"
+		},
+		{
+			"name": "selectBanner2_png",
+			"type": "image",
+			"url": "assets/GameImg/End/selectBanner.png"
+		},
+		{
+			"name": "Map4Define_json",
+			"type": "json",
+			"url": "assets/Json/Map4Define.json"
+		},
+		{
+			"name": "Map3Define_json",
+			"type": "json",
+			"url": "assets/Json/Map3Define.json"
+		},
+		{
+			"name": "toggleButtonOverlay2_png",
+			"type": "image",
+			"url": "assets/GameImg/Option/toggleButtonOverlay2.png"
+		},
+		{
+			"name": "verticalSlider_png",
+			"type": "image",
+			"url": "assets/GameImg/Option/verticalSlider.png"
+		},
+		{
+			"name": "abandon_png",
+			"type": "image",
+			"url": "assets/GameImg/Option/abandon.png"
+		},
+		{
+			"name": "confirm_png",
+			"type": "image",
+			"url": "assets/GameImg/Option/confirm.png"
+		},
+		{
+			"name": "no_png",
+			"type": "image",
+			"url": "assets/GameImg/Option/no.png"
+		},
+		{
+			"name": "quitButton_png",
+			"type": "image",
+			"url": "assets/GameImg/Option/quitButton.png"
+		},
+		{
+			"name": "sliderBg_png",
+			"type": "image",
+			"url": "assets/GameImg/Option/sliderBg.png"
+		},
+		{
+			"name": "toggleButtonBase_png",
+			"type": "image",
+			"url": "assets/GameImg/Option/toggleButtonBase.png"
+		},
+		{
+			"name": "STS_Boss1MindBloom_v1_mp3",
+			"type": "sound",
+			"url": "assets/GameImg/audio/STS_Boss1MindBloom_v1.mp3"
+		},
+		{
+			"name": "logo_png",
+			"type": "image",
+			"url": "assets/GameImg/logo.png"
+		}
+	]
+}

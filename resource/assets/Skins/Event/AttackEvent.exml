@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="AttackEvent" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="attackBg" source="BottomScene_bg_jpg" x="0" y="0" width="1400" height="1200"/>
+	<e:Image id="player" source="man_0_png" x="248" y="311" scaleX="1"/>
+	<e:Image id="img" x="408" y="390" source=""/>
+	<e:Label id="chat" text="" x="50" y="130" anchorOffsetX="0" width="691" anchorOffsetY="0" height="160" textAlign="left" bold="true"/>
+	<e:Button id="buttonUp" label="" x="50" y="560" width="600" height="60" enabled="true">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="enabledButton_png" source.down="disabledButton_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="buttonDown" label="" x="50" y="640" width="600" height="60" enabled="true">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="enabledButton_png" source.down="disabledButton_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BloodBarSkin" minWidth="30" minHeight="18" xmlns:e="http://ns.egret.com/eui">
+	<e:Image scale9Grid="1,1,178,18" width="100%"
+			 height="100%" verticalCenter="0" source="blood_bar_bg_png"/>
+	<e:Image id="thumb" height="100%" width="100%" source="blood_bar_front_png" scale9Grid="1,1,178,18"/>
+	<e:Label id="labelDisplay" name="blood_lable" textAlign="center" verticalAlign="middle"
+			 size="15" fontFamily="Tahoma"
+			 horizontalCenter="0" verticalCenter="0" text="" textColor="0xffffff" strokeColor="0x751818"/>
+</e:Skin>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RelicSelectUiSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="1280" height="720" x="0" y="0" fillAlpha="0.5"/>
+	<e:Image source="relicPopup_png" x="0" y="0" anchorOffsetY="0" height="720" anchorOffsetX="0" width="1280"/>
+	<e:Image id="img_relic" source="l_bird_urn_png" y="139.33" horizontalCenter="0"/>
+	<e:Label id="label_detail" text="bug了" x="468" y="442" anchorOffsetX="0" width="350" anchorOffsetY="0" height="160" textAlign="left" textColor="0xfff9f9" stroke="2" strokeColor="0x000000"/>
+	<e:Label id="label_detailName" text="蜥蜴尾巴" y="68.42" anchorOffsetX="0" width="300" anchorOffsetY="0" height="70.91" verticalAlign="middle" textAlign="center" textColor="0xffffff" bold="true" stroke="5" horizontalCenter="0"/>
+	<e:Button id="btn_cancel" label="返回" x="-21.61" y="565">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="cancelButton_png" source.down="cancelButtonDown_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Button id="btn_ok" label="确认" x="1000" y="565" width="280" height="74">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="confirmButton_png" source.down="confirmButtonDown_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

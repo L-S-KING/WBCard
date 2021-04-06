@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MapSceneSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="1280" height="720" x="0" y="0" fillAlpha="0.6"/>
+	<e:Scroller id="map_scroller" width="900" height="640" x="103" y="-640" anchorOffsetX="0" anchorOffsetY="0" scrollPolicyH="off" scrollPolicyV="auto">
+		<e:Group id="map_Group">
+			<e:Image source="MapBg_png" y="0" horizontalCenter="10"/>
+		</e:Group>
+	</e:Scroller>
+	<e:Button id="btn_cancel" label="返回" x="-25" y="567">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="cancelButton_png" source.down="cancelButtonDown_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+	<e:Image source="legend2_png" x="980" y="110" width="300" height="500"/>
+	<e:Image source="monster_png" x="1019.67" y="219.85" scaleX="0.7" scaleY="0.7"/>
+	<e:Image source="rest_png" x="1019.67" y="264.65" scaleX="0.7" scaleY="0.7"/>
+	<e:Image source="shop_png" x="1017" y="320" scaleX="0.7" scaleY="0.7"/>
+	<e:Image source="elite_png" x="1019.67" y="364.8" scaleX="0.7" scaleY="0.7"/>
+	<e:Image source="event_png" x="1019.67" y="427.18" scaleX="0.7" scaleY="0.7"/>
+	<e:Label text="怪物" x="1106.6" y="249.65" bold="true"/>
+	<e:Label text="休息处" x="1106.6" y="294.45" bold="true"/>
+	<e:Label text="精英" x="1106.6" y="397.18" bold="true"/>
+	<e:Label text="你猜" x="1109.27" y="454.4" bold="true"/>
+	<e:Label text="商店" x="1109.27" y="349.8" bold="true"/>
+</e:Skin>

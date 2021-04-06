@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="CardUiSkin" width="230" height="330" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="shader" source="shaderBorder_png" x="-10" y="-10" width="240" height="340"/>
+	<e:Image id="img_cardBg" x="10" y="10" width="200" height="300" source="normal_cardBg_0_png"/>
+	<e:Label id="label_detail" text="给予对面4点伤害，并且附加中毒效果" x="8" y="199" anchorOffsetX="0" width="183" anchorOffsetY="0" height="90" textColor="0x000000" size="18" visible="false"/>
+	<e:Image id="img_cardPortrait" source="blood_for_blood_png" x="20" y="36" width="180" height="140"/>
+	<e:Image id="img_cardBox" x="18" y="44" width="181" source="bottom_0_png" anchorOffsetY="0" height="139" anchorOffsetX="0"/>
+	<e:Image id="img_cardNameBg" x="10" y="15" width="200" anchorOffsetY="0" height="50" source="cardName_0_png"/>
+	<e:Image source="cardPP_1_png" x="0" y="0" anchorOffsetX="0" width="40" anchorOffsetY="0" height="40"/>
+	<e:Label id="label_pp" text="0" x="-5" y="5" height="30" width="50" verticalAlign="middle" textAlign="center" borderColor="0x000000" backgroundColor="0xffffff" strokeColor="0x000000" stroke="2" textColor="0xffffff"/>
+	<e:Label id="label_icon" text="攻击" x="26" y="11.5" anchorOffsetX="0" width="168" anchorOffsetY="0" height="30" verticalAlign="middle" textAlign="center" size="23" textColor="0xffffff" stroke="2"/>
+	<e:Label id="label_cardEffectType" text="攻击" x="90" y="163" textColor="0x000000" size="16" width="36" height="18" verticalAlign="middle" textAlign="center" fontFamily="FangSong" bold="true"/>
+</e:Skin>

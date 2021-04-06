@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RewardUiSkin" width="1280" height="716" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="1280" height="720" x="0" y="0" fillAlpha="0.5"/>
+	<e:Group id="main_group" width="1280" height="720" x="0" y="0">
+		<e:Image source="rewardScreenSheet_png" y="0" horizontalCenter="0" x="334" scaleX="1" scaleY="1"/>
+		<e:Image source="selectBanner_png" y="0" anchorOffsetX="0" width="680" anchorOffsetY="0" height="124" horizontalCenter="0" x="300" scaleX="1" scaleY="1"/>
+		<e:Label text="选择你的奖励！" y="34" horizontalCenter="0" verticalAlign="middle" textAlign="center" stroke="3" textColor="0xffffff" x="535" scaleX="1" scaleY="1"/>
+		<e:Scroller width="380" height="499" y="124" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" x="450" scaleX="1" scaleY="1">
+			<e:Group id="reward_group">
+			<e:layout>
+				<e:VerticalLayout horizontalAlign="center"/>
+			</e:layout>
+			</e:Group>
+		</e:Scroller>
+	</e:Group>
+	<e:Button id="btn_jump" label="跳过" x="2000" y="547">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="confirmButton_png" source.down="confirmButtonDown_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+		</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

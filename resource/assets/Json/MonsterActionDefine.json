@@ -1,0 +1,37 @@
+{
+    "0":{
+        "id":0,
+        "detail":"将进行强化",
+        "img":"powerUp_png"
+    },
+    "1":{
+        "id":1,
+        "detail":"将进行格挡",
+        "img":"defense_png"
+    },
+    "2":{
+        "id":2,
+        "detail":"将进行攻击",
+        "img":"attack_png"
+    },
+    "3":{
+        "id":3,
+        "detail":"将要给玩家添加负面buff",
+        "img":"debuff_png"
+    },
+    "4":{
+        "id":4,
+        "detail":"正在眩晕",
+        "img":"dizziness_png"
+    },
+    "5":{
+        "id":5,
+        "detail":"正在睡眠",
+        "img":"sleep_png"
+    },
+    "6":{
+        "id":6,
+        "detail":"将要进行未知的动作（不是攻击）",
+        "img":"Unknown_png"
+    }
+}

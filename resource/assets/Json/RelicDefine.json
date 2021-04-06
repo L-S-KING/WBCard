@@ -1,0 +1,138 @@
+{
+    "PaperFrog":{
+        "name": "PaperFrog",
+        "detailName": "纸娃",
+        "type": null,
+        "detail": "有易伤的敌人受到的伤害增加75%，而非为50%。",
+        "img": "paperFrog_png"
+    },
+    "SneckoEye":{
+        "name": "SneckoEye",
+        "detailName": "异蛇之眼",
+        "type": null,
+        "detail": "每回合多抽两张牌，每场战斗开始获得混乱效果。",
+        "img": "sneckoEye_png"
+    },
+    "IceCream":{
+        "name": "IceCream",
+        "detailName": "冰激凌",
+        "type": null,
+        "detail": "多余的能量可以留到下一回合。",
+        "img": "iceCream_png"
+    },
+    "LizardTail":{
+        "name": "LizardTail",
+        "detailName": "蜥蜴之尾",
+        "type": null,
+        "detail": "当你要被杀死时免死并回复到最大生命值的50%（仅能生效一次）。",
+        "img": "lizardTail_png"
+    },
+    "RedSkull":{
+        "name": "RedSkull",
+        "detailName": "红头骨",
+        "type": null,
+        "detail": "当你的生命值低于或等于50%时，额外获得3点力量.",
+        "img": "red_skull_png"
+    },
+    "Strawberry":{
+        "name": "Strawberry",
+        "detailName": "草莓",
+        "type": null,
+        "detail": "拾起时，玩家最大生命值增加7。",
+        "img": "strawberry_png"
+    },
+    "BlackBlood":{
+        "name": "BlackBlood",
+        "detailName": "黑暗之血",
+        "type": null,
+        "detail": "在战斗结束时,回复10点生命",
+        "img": "blackBlood_png"
+    },
+    "SnakeSkull":{
+        "name": "SnakeSkull",
+        "detailName": "异蛇头骨",
+        "type": null,
+        "detail": "每当你给予敌人中毒效果时，额外给予1层中毒效果。",
+        "img": "snakeSkull_png"
+    },
+    "Pantograph":{
+        "name": "Pantograph",
+        "detailName": "缩放仪",
+        "type": null,
+        "detail": "每当BOSS战开始时，回复25点生命。",
+        "img": "pantograph_png"
+    },
+    "GremlinHorn":{
+        "name": "GremlinHorn",
+        "detailName": "地精之角",
+        "type": 0,
+        "detail": "每当有一名敌人死亡，获得1点能量，并抽1张牌",
+        "img": "gremlinHorn_png"
+    },
+   
+    "Marbles":{
+        "name": "Marbles",
+        "detailName": "弹珠袋",
+        "type": 0,
+        "detail": "在每场战斗开始时，给予所有敌人1层易伤。",
+        "img": "marbles_png"
+    },
+    "Orichalcum":{
+        "name": "Orichalcum",
+        "detailName": "奥利哈钢",
+        "type": 0,
+        "detail": "战斗开始时获得5层多重护甲。",
+        "img": "orichalcum_png"
+    },
+    "Shovel":
+    {
+        "name":"Shovel",
+        "detailName":"铲子",
+        "detail":"每被攻击掉一次血抽一张牌。",
+        "type":0,
+        "img":"shovel_png"
+    },
+    "BirdUrn":
+    {
+        "name":"BirdUrn",
+        "detailName":"鸟面瓮",
+        "detail":"每使用一张非攻击牌，回复1血",
+        "type":0,
+        "img":"bird_urn_png"
+    },
+    "CoffeeDripper":{
+        "name": "CoffeeDripper",
+        "detailName": "咖啡滤杯",
+        "type": 0,
+        "detail": "每回合开始时获得1点能量，你无法再在休息处休息。",
+        "img": "coffeeDripper_png"
+    },
+     "Ginger":{
+        "name": "Ginger",
+        "detailName": "生姜",
+        "type": null,
+        "detail": "你不会再被虚弱。",
+        "img": "ginger_png"
+    },
+     "SpiritPoop":{
+        "name": "SpiritPoop",
+        "detailName": "精灵便便",
+        "type": 0,
+        "detail": "不管怎么看都不舒服。",
+        "img": "spiritPoop_png"
+    },
+    "ClericFace":{
+        "name": "ClericFace",
+        "detailName": "牧师的脸",
+        "type": 0,
+        "detail": "每场战斗结束你的最大生命值增加1。",
+        "img": "clericFace_png"
+    },
+    "BombEgg":{
+        "name": "BombEgg",
+        "detailName": "炸蛋",
+        "type": 0,
+        "detail": "在第7回合结束时，对所有敌人造成100点伤害",
+        "img": "bombEgg_png"
+    }
+}

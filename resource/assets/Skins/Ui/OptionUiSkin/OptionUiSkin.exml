@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="OptionUiSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="1280" height="720" x="0" y="0" fillAlpha="0.5"/>
+	<e:Group id="main_group" width="1280" height="720" anchorOffsetX="640" anchorOffsetY="360" horizontalCenter="0" verticalCenter="0">
+		<e:Image source="confirm_png" y="106.52" horizontalCenter="0"/>
+		<e:Image id="img_giveUp" source="abandon_png" x="563.94" y="71.67" anchorOffsetX="0" width="273.33" anchorOffsetY="0" height="78.79"/>
+		<e:Image id="img_return" source="no_png" x="354.15" y="404.1"/>
+		<e:Image source="quitButton_png" x="493.71" y="229.49" anchorOffsetX="0" width="388.03" anchorOffsetY="0" height="291.03"/>
+		<e:Label text="放弃这局游戏" x="583.12" y="91.52" width="270" textAlign="center" verticalAlign="middle" stroke="2" touchEnabled="false"/>
+		<e:Label text="返回" x="400" y="422" stroke="2" touchEnabled="false"/>
+		<e:Label id="label_saveQuit" text="保存并退出" x="571.39" y="455" stroke="2" anchorOffsetX="0" width="277.28" anchorOffsetY="0" height="43.64" verticalAlign="middle" textAlign="center"/>
+		<e:ToggleButton id="btn_music" label="" x="532" y="267" width="32" height="32">
+			<e:skinName>
+				<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="toggleButtonOverlay2_png" source.down="toggleButtonBase_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+				</e:Skin>
+			</e:skinName>
+		</e:ToggleButton>
+		<e:HSlider id="slider_music" width="180" height="20" x="583.12" y="273" skinName="RadioSliderSkin"/>
+	</e:Group>
+</e:Skin>

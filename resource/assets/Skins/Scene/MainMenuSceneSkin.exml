@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="MainMenuSceneSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="title_bg_jpg" x="0" y="0" width="1280" height="720"/>
+	<e:Button id="btn_continue" label="继续游戏" x="-34.76" y="410" skinName="cancleButtonSkin"/>
+	<e:Button id="btn_start" label="开始游戏" x="-34.76" y="510" skinName="cancleButtonSkin"/>
+	<e:Button id="btn_end" label="退出游戏" x="-34.76" y="610" skinName="cancleButtonSkin"/>
+	<e:Image source="logo_png" x="268.03" y="103.63" anchorOffsetX="0" width="743.94" anchorOffsetY="0" height="274.55"/>
+	<e:Label id="label_tips" text="保存游戏在游戏界面右上角设置按钮中。" x="640" y="378.18" alpha="0.4"/>
+</e:Skin>

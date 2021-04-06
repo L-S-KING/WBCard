@@ -1,0 +1,563 @@
+{
+ "nodeCount":56,
+   "0": {
+    "id": 0,
+    "posX": 350,
+    "posY": 550,
+    "nodeType": "normalMonster",
+    "frondNode": "null",
+    "layer": 1,
+    "isClear": 0,
+    "levelId": 2
+  },
+  "1": {
+    "id": 1,
+    "posX": 650,
+    "posY": 540,
+    "nodeType": "normalMonster",
+    "frondNode": "null",
+    "layer": 1,
+    "isClear": 0,
+    "levelId": 3
+  },
+  "2": {
+    "id": 2,
+    "posX": 250,
+    "posY": 450,
+    "nodeType": "normalMonster",
+    "frondNode": "0",
+    "layer": 2,
+    "isClear": 0,
+    "levelId": 15
+  },
+  "3": {
+    "id": 3,
+    "posX": 500,
+    "posY": 460,
+    "nodeType": "questionMark",
+    "frondNode": "0",
+    "layer": 2,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "4": {
+    "id": 4,
+    "posX": 650,
+    "posY": 440,
+    "nodeType": "normalMonster",
+    "frondNode": "1",
+    "layer": 2,
+    "isClear": 0,
+    "levelId": 16
+  },
+  "5": {
+    "id": 5,
+    "posX": 230,
+    "posY": 350,
+    "nodeType": "normalMonster",
+    "frondNode": "2",
+    "layer": 3,
+    "isClear": 0,
+    "levelId": 17
+  },
+  "6": {
+    "id": 6,
+    "posX": 300,
+    "posY": 360,
+    "nodeType": "normalMonster",
+    "frondNode": "3",
+    "layer": 3,
+    "isClear": 0,
+    "levelId": 18
+  },
+  "7": {
+    "id": 7,
+    "posX": 450,
+    "posY": 350,
+    "nodeType": "questionMark",
+    "frondNode": "3,4",
+    "layer": 3,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "8": {
+    "id": 8,
+    "posX": 600,
+    "posY": 340,
+    "nodeType": "normalMonster",
+    "frondNode": "4",
+    "layer": 3,
+    "isClear": 0,
+    "levelId": 19
+  },
+  "9": {
+    "id": 9,
+    "posX": 230,
+    "posY": 250,
+    "nodeType": "normalMonster",
+    "frondNode": "5",
+    "layer": 4,
+    "isClear": 0,
+    "levelId": 20
+  },
+  "10": {
+    "id": 10,
+    "posX": 310,
+    "posY": 250,
+    "nodeType": "normalMonster",
+    "frondNode": "6,7",
+    "layer": 4,
+    "isClear": 0,
+    "levelId": 21
+  },
+  "11": {
+    "id": 11,
+    "posX": 460,
+    "posY": 260,
+    "nodeType": "shop",
+    "frondNode": "7",
+    "layer": 4,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "12": {
+    "id": 12,
+    "posX": 550,
+    "posY": 260,
+    "nodeType": "questionMark",
+    "frondNode": "7",
+    "layer": 4,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "13": {
+    "id": 13,
+    "posX": 650,
+    "posY": 240,
+    "nodeType": "normalMonster",
+    "frondNode": "8",
+    "layer": 4,
+    "isClear": 0,
+    "levelId": 22
+  },
+  "14": {
+    "id": 14,
+    "posX": 270,
+    "posY": 150,
+    "nodeType": "normalMonster",
+    "frondNode": "9,10",
+    "layer": 5,
+    "isClear": 0,
+    "levelId": 9
+  },
+  "15": {
+    "id": 15,
+    "posX": 400,
+    "posY": 160,
+    "nodeType": "questionMark",
+    "frondNode": "10,11",
+    "layer": 5,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "16": {
+    "id": 16,
+    "posX": 550,
+    "posY": 140,
+    "nodeType": "normalMonster",
+    "frondNode": "12",
+    "layer": 5,
+    "isClear": 0,
+    "levelId": 7
+  },
+  "17": {
+    "id": 17,
+    "posX": 700,
+    "posY": 150,
+    "nodeType": "normalMonster",
+    "frondNode": "13",
+    "layer": 5,
+    "isClear": 0,
+    "levelId": 6
+  },
+  "18": {
+    "id": 18,
+    "posX": 350,
+    "posY": 60,
+    "nodeType": "restArea",
+    "frondNode": "14,15",
+    "layer": 6,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "19": {
+    "id": 19,
+    "posX": 630,
+    "posY": 50,
+    "nodeType": "normalMonster",
+    "frondNode": "16,17",
+    "layer": 6,
+    "isClear": 0,
+    "levelId": 24
+  },
+  "20": {
+    "id": 20,
+    "posX": 240,
+    "posY": -50,
+    "nodeType": "eliteMonster",
+    "frondNode": "18",
+    "layer": 7,
+    "isClear": 0,
+    "levelId": 37
+  },
+  "21": {
+    "id": 21,
+    "posX": 400,
+    "posY": -60,
+    "nodeType": "normalMonster",
+    "frondNode": "18",
+    "layer": 7,
+    "isClear": 0,
+    "levelId": 25
+  },
+  "22": {
+    "id": 22,
+    "posX": 500,
+    "posY": -50,
+    "nodeType": "questionMark",
+    "frondNode": "18",
+    "layer": 7,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "23": {
+    "id": 23,
+    "posX": 600,
+    "posY": -60,
+    "nodeType": "restArea",
+    "frondNode": "19",
+    "layer": 7,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "24": {
+    "id": 24,
+    "posX": 720,
+    "posY": -50,
+    "nodeType": "normalMonster",
+    "frondNode": "19",
+    "layer": 7,
+    "isClear": 0,
+    "levelId": 26
+  },
+  "25": {
+    "id": 25,
+    "posX": 200,
+    "posY": -150,
+    "nodeType": "restArea",
+    "frondNode": "20",
+    "layer": 8,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "26": {
+    "id": 26,
+    "posX": 320,
+    "posY": -160,
+    "nodeType": "eliteMonster",
+    "frondNode": "21",
+    "layer": 8,
+    "isClear": 0,
+    "levelId": 32
+  },
+  "27": {
+    "id": 27,
+    "posX": 450,
+    "posY": -150,
+    "nodeType": "eliteMonster",
+    "frondNode": "22,23",
+    "layer": 8,
+    "isClear": 0,
+    "levelId": 38
+  },
+  "28": {
+    "id": 28,
+    "posX": 680,
+    "posY": -140,
+    "nodeType": "eliteMonster",
+    "frondNode": "24",
+    "layer": 8,
+    "isClear": 0,
+    "levelId": 40
+  },
+  "29": {
+    "id": 29,
+    "posX": 300,
+    "posY": -250,
+    "nodeType": "questionMark",
+    "frondNode": "25,26",
+    "layer": 9,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "30": {
+    "id": 30,
+    "posX": 570,
+    "posY": -240,
+    "nodeType": "questionMark",
+    "frondNode": "27,28",
+    "layer": 9,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "31": {
+    "id": 31,
+    "posX": 250,
+    "posY": -350,
+    "nodeType": "normalMonster",
+    "frondNode": "29",
+    "layer": 10,
+    "isClear": 0,
+    "levelId": 28
+  },
+  "32": {
+    "id": 32,
+    "posX": 400,
+    "posY": -360,
+    "nodeType": "questionMark",
+    "frondNode": "30",
+    "layer": 10,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "33": {
+    "id": 33,
+    "posX": 500,
+    "posY": -340,
+    "nodeType": "shop",
+    "frondNode": "30",
+    "layer": 10,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "34": {
+    "id": 34,
+    "posX": 620,
+    "posY": -350,
+    "nodeType": "eliteMonster",
+    "frondNode": "30",
+    "layer": 10,
+    "isClear": 0,
+    "levelId": 45
+  },
+  "35": {
+    "id": 35,
+    "posX": 230,
+    "posY": -450,
+    "nodeType": "questionMark",
+    "frondNode": "31",
+    "layer": 11,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "36": {
+    "id": 36,
+    "posX": 350,
+    "posY": -460,
+    "nodeType": "normalMonster",
+    "frondNode": "31",
+    "layer": 11,
+    "isClear": 0,
+    "levelId": 23
+  },
+  "37": {
+    "id": 37,
+    "posX": 480,
+    "posY": -440,
+    "nodeType": "eliteMonster",
+    "frondNode": "31",
+    "layer": 11,
+    "isClear": 0,
+    "levelId": 41
+  },
+  "38": {
+    "id": 38,
+    "posX": 600,
+    "posY": -450,
+    "nodeType": "questionMark",
+    "frondNode": "32",
+    "layer": 11,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "39": {
+    "id": 39,
+    "posX": 720,
+    "posY": -450,
+    "nodeType": "questionMark",
+    "frondNode": "33,34",
+    "layer": 11,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "40": {
+    "id": 40,
+    "posX": 300,
+    "posY": -550,
+    "nodeType": "normalMonster",
+    "frondNode": "35",
+    "layer": 12,
+    "isClear": 0,
+    "levelId": 14
+  },
+  "41": {
+    "id": 41,
+    "posX": 450,
+    "posY": -560,
+    "nodeType": "normalMonster",
+    "frondNode": "36",
+    "layer": 12,
+    "isClear": 0,
+    "levelId": 29
+  },
+  "42": {
+    "id": 42,
+    "posX": 600,
+    "posY": -540,
+    "nodeType": "shop",
+    "frondNode": "37,38",
+    "layer": 12,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "43": {
+    "id": 43,
+    "posX": 750,
+    "posY": -550,
+    "nodeType": "normalMonster",
+    "frondNode": "39",
+    "layer": 12,
+    "isClear": 0,
+    "levelId": 8
+  },
+  "44": {
+    "id": 44,
+    "posX": 280,
+    "posY": -650,
+    "nodeType": "questionMark",
+    "frondNode": "40,41,42",
+    "layer": 13,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "45": {
+    "id": 45,
+    "posX": 500,
+    "posY": -660,
+    "nodeType": "normalMonster",
+    "frondNode": "42",
+    "layer": 13,
+    "isClear": 0,
+    "levelId": 30
+  },
+  "46": {
+    "id": 46,
+    "posX": 780,
+    "posY": -640,
+    "nodeType": "restArea",
+    "frondNode": "43",
+    "layer": 13,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "47": {
+    "id": 47,
+    "posX": 300,
+    "posY": -750,
+    "nodeType": "questionMark",
+    "frondNode": "44",
+    "layer": 14,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "48": {
+    "id": 48,
+    "posX": 500,
+    "posY": -760,
+    "nodeType": "normalMonster",
+    "frondNode": "44,45",
+    "layer": 14,
+    "isClear": 0,
+    "levelId": 23
+  },
+  "49": {
+    "id": 49,
+    "posX": 700,
+    "posY": -740,
+    "nodeType": "normalMonster",
+    "frondNode": "45,46",
+    "layer": 14,
+    "isClear": 0,
+    "levelId": 24
+  },
+  "50": {
+    "id": 50,
+    "posX": 400,
+    "posY": -850,
+    "nodeType": "questionMark",
+    "frondNode": "47,48",
+    "layer": 15,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "51": {
+    "id": 51,
+    "posX": 600,
+    "posY": -850,
+    "nodeType": "questionMark",
+    "frondNode": "48,49",
+    "layer": 15,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "52": {
+    "id": 52,
+    "posX": 250,
+    "posY": -950,
+    "nodeType": "restArea",
+    "frondNode": "50",
+    "layer": 16,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "53": {
+    "id": 53,
+    "posX": 450,
+    "posY": -950,
+    "nodeType": "restArea",
+    "frondNode": "50,51",
+    "layer": 16,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "54": {
+    "id": 54,
+    "posX": 650,
+    "posY": -940,
+    "nodeType": "restArea",
+    "frondNode": "51",
+    "layer": 16,
+    "isClear": 0,
+    "levelId": 0
+  },
+  "55": {
+    "id": 55,
+    "posX": 480,
+    "posY": -1200,
+    "nodeType": "bossMonster",
+    "frondNode": "52,53,54",
+    "layer": 17,
+    "isClear": 0,
+    "levelId": 49
+  }
+}

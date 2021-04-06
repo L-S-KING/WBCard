@@ -1,0 +1,302 @@
+{
+  "1": {
+    "id": 1,
+    "levelType": 0,
+    "monsterData": "5",
+    "rewardsData": "null"
+  },
+  "2": {
+    "id": 2,
+    "levelType": 0,
+    "monsterData": "6",
+    "rewardsData": "null"
+  },
+  "3": {
+    "id": 3,
+    "levelType": 0,
+    "monsterData": "7",
+    "rewardsData": "null"
+  },
+  "4": {
+    "id": 4,
+    "levelType": 0,
+    "monsterData": "8",
+    "rewardsData": "null"
+  },
+  "5": {
+    "id": 5,
+    "levelType": 0,
+    "monsterData": "9",
+    "rewardsData": "null"
+  },
+  "6": {
+    "id": 6,
+    "levelType": 0,
+    "monsterData": "10",
+    "rewardsData": "null"
+  },
+  "7": {
+    "id": 7,
+    "levelType": 0,
+    "monsterData": "11",
+    "rewardsData": "null"
+  },
+  "8": {
+    "id": 8,
+    "levelType": 0,
+    "monsterData": "12",
+    "rewardsData": "null"
+  },
+  "9": {
+    "id": 9,
+    "levelType": 0,
+    "monsterData": "5,5",
+    "rewardsData": "null"
+  },
+  "10": {
+    "id": 10,
+    "levelType": 0,
+    "monsterData": "6,6",
+    "rewardsData": "null"
+  },
+  "11": {
+    "id": 11,
+    "levelType": 0,
+    "monsterData": "8,8",
+    "rewardsData": "null"
+  },
+  "12": {
+    "id": 12,
+    "levelType": 0,
+    "monsterData": "9,10",
+    "rewardsData": "null"
+  },
+  "13": {
+    "id": 13,
+    "levelType": 0,
+    "monsterData": "5,7",
+    "rewardsData": "null"
+  },
+  "14": {
+    "id": 14,
+    "levelType": 0,
+    "monsterData": "11,11",
+    "rewardsData": "null"
+  },
+  "15": {
+    "id": 15,
+    "levelType": 0,
+    "monsterData": "1,2,5",
+    "rewardsData": "null"
+  },
+  "16": {
+    "id": 16,
+    "levelType": 0,
+    "monsterData": "3,4,7",
+    "rewardsData": "null"
+  },
+  "17": {
+    "id": 17,
+    "levelType": 0,
+    "monsterData": "1,2,6",
+    "rewardsData": "null"
+  },
+  "18": {
+    "id": 18,
+    "levelType": 0,
+    "monsterData": "1,2,7",
+    "rewardsData": "null"
+  },
+  "19": {
+    "id": 19,
+    "levelType": 0,
+    "monsterData": "1,2,9",
+    "rewardsData": "null"
+  },
+  "20": {
+    "id": 20,
+    "levelType": 0,
+    "monsterData": "1,2,10",
+    "rewardsData": "null"
+  },
+  "21": {
+    "id": 21,
+    "levelType": 0,
+    "monsterData": "1,2,11",
+    "rewardsData": "null"
+  },
+  "22": {
+    "id": 22,
+    "levelType": 0,
+    "monsterData": "5,5,5",
+    "rewardsData": "null"
+  },
+  "23": {
+    "id": 23,
+    "levelType": 0,
+    "monsterData": "8,9,10",
+    "rewardsData": "null"
+  },
+  "24": {
+    "id": 24,
+    "levelType": 0,
+    "monsterData": "3,4,8",
+    "rewardsData": "null"
+  },
+  "25": {
+    "id": 25,
+    "levelType": 0,
+    "monsterData": "2,3,7",
+    "rewardsData": "null"
+  },
+  "26": {
+    "id": 26,
+    "levelType": 0,
+    "monsterData": "2,3,6",
+    "rewardsData": "null"
+  },
+  "27": {
+    "id": 27,
+    "levelType": 0,
+    "monsterData": "2,3,11",
+    "rewardsData": "null"
+  },
+  "28": {
+    "id": 28,
+    "levelType": 0,
+    "monsterData": "3,4,11",
+    "rewardsData": "null"
+  },
+  "29": {
+    "id": 29,
+    "levelType": 0,
+    "monsterData": "2,4,11",
+    "rewardsData": "null"
+  },
+  "30": {
+    "id": 30,
+    "levelType": 0,
+    "monsterData": "1,2,3,4",
+    "rewardsData": "null"
+  },
+  "31": {
+    "id": 31,
+    "levelType": 1,
+    "monsterData": "17",
+    "rewardsData": "null"
+  },
+  "32": {
+    "id": 32,
+    "levelType": 1,
+    "monsterData": "18",
+    "rewardsData": "null"
+  },
+  "33": {
+    "id": 33,
+    "levelType": 1,
+    "monsterData": "19",
+    "rewardsData": "null"
+  },
+  "34": {
+    "id": 34,
+    "levelType": 1,
+    "monsterData": "20",
+    "rewardsData": "null"
+  },
+  "35": {
+    "id": 35,
+    "levelType": 1,
+    "monsterData": "22",
+    "rewardsData": "null"
+  },
+  "36": {
+    "id": 36,
+    "levelType": 1,
+    "monsterData": "8,8,17",
+    "rewardsData": "null"
+  },
+  "37": {
+    "id": 37,
+    "levelType": 1,
+    "monsterData": "9,10,19",
+    "rewardsData": "null"
+  },
+  "38": {
+    "id": 38,
+    "levelType": 1,
+    "monsterData": "21,22",
+    "rewardsData": "null"
+  },
+  "39": {
+    "id": 39,
+    "levelType": 1,
+    "monsterData": "2,4,17",
+    "rewardsData": "null"
+  },
+  "40": {
+    "id": 40,
+    "levelType": 1,
+    "monsterData": "12,21",
+    "rewardsData": "null"
+  },
+  "41": {
+    "id": 41,
+    "levelType": 1,
+    "monsterData": "10,19",
+    "rewardsData": "null"
+  },
+  "42": {
+    "id": 42,
+    "levelType": 1,
+    "monsterData": "10,17",
+    "rewardsData": "null"
+  },
+  "43": {
+    "id": 43,
+    "levelType": 1,
+    "monsterData": "2,3,20",
+    "rewardsData": "null"
+  },
+  "44": {
+    "id": 44,
+    "levelType": 1,
+    "monsterData": "3,4,19",
+    "rewardsData": "null"
+  },
+  "45": {
+    "id": 45,
+    "levelType": 1,
+    "monsterData": "11,22",
+    "rewardsData": "null"
+  },
+  "46": {
+    "id": 46,
+    "levelType": 1,
+    "monsterData": "11,11,12",
+    "rewardsData": "null"
+  },
+  "47": {
+    "id": 47,
+    "levelType": 2,
+    "monsterData": "13",
+    "rewardsData": "null"
+  },
+  "48": {
+    "id": 48,
+    "levelType": 2,
+    "monsterData": "14",
+    "rewardsData": "null"
+  },
+  "49": {
+    "id": 49,
+    "levelType": 2,
+    "monsterData": "15",
+    "rewardsData": "null"
+  },
+  "50": {
+    "id": 50,
+    "levelType": 2,
+    "monsterData": "16",
+    "rewardsData": "null"
+  }
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RewardItemSkin" width="380" height="80" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="rewardListItemPanel_png" x="0" y="0"/>
+	<e:Image id="item_image" source="normalCardReward_png" x="11" y="8"/>
+	<e:Label id="item_label" text="50" x="98" stroke="0" anchorOffsetX="0" width="226" verticalCenter="0" textAlign="left" bold="true"/>
+</e:Skin>

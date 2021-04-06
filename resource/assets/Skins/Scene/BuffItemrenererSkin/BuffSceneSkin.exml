@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BuffSceneSkin" width="400" height="300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:List id="buffList" width="200" height="200" x="0" y="0" visible="false">
+		<e:layout>
+			<e:VerticalLayout gap="0"/>
+		</e:layout>
+	</e:List>
+	<e:Group id="buffGroup" width="200" height="200" x="0" y="0">
+		<e:layout>
+			<e:VerticalLayout horizontalAlign="center"/>
+		</e:layout>
+	</e:Group>
+</e:Skin>

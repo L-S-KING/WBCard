@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="PlayerUiSkin" width="1280" height="70" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="bar_png" x="0" y="0" width="1280" height="70"/>
+	<e:Image source="floor_png" x="608" y="0" width="36" height="36"/>
+	<e:Image id="img_map" source="map_png" x="1030" y="3" width="36" height="36"/>
+	<e:Image id="btn_option" source="settings_png" x="1196.7" y="0" width="36" height="36"/>
+	<e:Label id="Label_PlayerName" text="Edwise" x="28.91" y="-1" height="40" verticalAlign="middle" textAlign="center"/>
+	<e:Group id="group_holdCard" width="36" height="36" x="1110" y="0">
+		<e:Image source="deck_png" x="0" y="0" scaleX="1" scaleY="1" width="36" height="36"/>
+		<e:Label id="label_holdCardCount" text="22" x="15" y="20" size="20" bold="true"/>
+	</e:Group>
+	<e:Group id="group_heart" width="100" height="36" y="0" x="160">
+		<e:Label id="label_heart" text="99/99" y="0" textColor="0xef2b2b" verticalAlign="middle" size="18" bold="true" height="36" textAlign="center" scaleX="1" scaleY="1" x="35"/>
+		<e:Image id="img_heart" source="panelHeart_png" x="0" y="0" width="36" height="36" scaleX="1" scaleY="1"/>
+	</e:Group>
+	<e:Group id="group_coin" width="200" height="36" x="280" y="0">
+		<e:Image id="img_coin" source="panelGoldBag_png" x="0" y="0" width="36" height="36"/>
+		<e:Label id="label_coin" text="99" x="41" y="0" size="18" height="36" verticalAlign="middle" textAlign="center" textColor="0xffc372"/>
+	</e:Group>
+	<e:Label id="label_layer" text="1" x="647" y="0" size="18" height="36" verticalAlign="middle" textAlign="center"/>
+</e:Skin>

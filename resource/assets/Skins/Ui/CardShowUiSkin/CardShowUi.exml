@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="CardShowUiSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="1280" height="720" x="0" y="0" fillAlpha="0.5"/>
+	<e:Button id="btn_cancel" label="返回" x="-180" y="499.79" anchorOffsetX="0" width="171.21" anchorOffsetY="0" height="53.02" enabled="true" skinName="cancleButtonSkin">
+	</e:Button>
+	<e:Scroller id="scroller_card" width="800" height="560" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" scrollPolicyH="auto" scrollPolicyV="auto" y="560">
+		<e:Group id="group_card">
+			<e:layout>
+				<e:TileLayout orientation="rows" horizontalAlign="center" requestedColumnCount="3" columnWidth="200" verticalGap="50" columnAlign="justifyUsingWidth" horizontalGap="30" paddingLeft="0" paddingTop="20"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<e:Image source="selectBanner_png" y="-44.03" horizontalCenter="0"/>
+	<e:Label id="label_title" text="牌库" x="0" y="30" width="1280" verticalAlign="middle" textAlign="center" stroke="2" size="40"/>
+</e:Skin>

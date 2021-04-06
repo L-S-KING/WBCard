@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ShopSceneSkin" width="1280" height="720" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg_img" source="BottomScene_bg_jpg" x="0" y="-150" width="1400" height="1400"/>
+	<e:Group id="main_group" width="1280" height="720" x="0" y="-800">
+		<e:Rect width="1280" height="720" x="0" y="0" fillAlpha="0.3" scaleX="1" scaleY="1"/>
+		<e:Image source="zhs2_png" x="0" y="0" width="1280" height="680" scaleX="1" scaleY="1"/>
+		<e:Image id="img_removeCard" source="zhs_png" x="830.0000000000001" y="250.42" anchorOffsetX="0" width="337.75" anchorOffsetY="0" height="360.49" scaleX="1" scaleY="1"/>
+		<e:Label id="label_removeCardCoin" text="100" x="1020.0000000000001" y="510.00000000000006" size="30" verticalAlign="middle" textAlign="center" textColor="0xffc372" scaleX="1" scaleY="1"/>
+		<e:Rect id="bg_rect" width="1280" height="720" x="0" y="0" fillAlpha="0.6" scaleX="1" scaleY="1" visible="false"/>
+		<e:Button id="btn_cancel" label="返回" x="-27.39" y="606" scaleX="1" scaleY="1" visible="false">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="cancelButton_png" source.down="cancelButtonDown_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button id="btn_ok" label="确认" x="1024" y="604.0000000000001" scaleX="1" scaleY="1" visible="false">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="confirmButton_png" source.down="confirmButtonDown_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>
+		<e:Button id="btn_jump" label="跳过" x="1043.94" y="572.9100000000001" scaleX="1" scaleY="1">
+			<e:skinName>
+			<e:Skin states="up,down,disabled">
+				<e:Image width="100%" height="100%" source="confirmButton_png" source.down="confirmButtonDown_png"/>
+				<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:skinName>
+		</e:Button>
+	</e:Group>
+</e:Skin>

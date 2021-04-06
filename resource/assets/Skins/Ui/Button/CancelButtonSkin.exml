@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="cancleButtonSkin" states="up,down,disabled" minHeight="50" minWidth="100" currentState="up" xmlns:e="http://ns.egret.com/eui">
+    <e:Image width="100%" height="100%" scale9Grid="1,3,8,8" alpha.disabled="0.5"
+            
+             source.up="cancelButton_png" source.down="cancelButtonDown_png" source="cancelButton_png"/>
+    <e:Label id="labelDisplay" top="8" bottom="8" left="8" right="8"
+             size="30"
+             textColor="0xFFFFFF" verticalAlign="middle" textAlign="center" text="返回" strokeColor="0xeab14b" stroke="2" size.up="30" size.down="30"/>
+    <e:Image id="iconDisplay" horizontalCenter="0" verticalCenter="0"/>
+</e:Skin>
